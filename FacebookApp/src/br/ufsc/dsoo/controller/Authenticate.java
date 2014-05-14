@@ -7,6 +7,7 @@ import facebook4j.FacebookFactory;
 import facebook4j.auth.AccessToken;
 import facebook4j.conf.Configuration;
 import facebook4j.conf.ConfigurationBuilder;
+import java.lang.*;
 
 public class Authenticate {
 
